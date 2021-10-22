@@ -1,0 +1,5 @@
+Aws cloud computing
+ec2 is resizable cloud computing on cloud
+it provides compute capacity on cloud
+There are two major things
+Instance and Ami
